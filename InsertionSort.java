@@ -21,6 +21,7 @@ public void sorting() {
 }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		 System.out.println(Arrays.toString(arr));
         InsertionSort object=new InsertionSort();
         object.sorting();
         System.out.println(Arrays.toString(arr));
